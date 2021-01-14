@@ -20,7 +20,6 @@ import com.hiker.Ratings.entity.Rating;
 import com.hiker.Ratings.service.RatingService;
 
 @RestController
-@RequestMapping("/rating")
 public class RatingController {
 	
 	
